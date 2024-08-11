@@ -1,1 +1,1 @@
-# Automatic_License_Plate_Recognition_System
+# Licence-Plate-Detection-and-Recognition-using-YOLO-V8-EasyOCR
