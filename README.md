@@ -1,1 +1,1 @@
-# Automatic_License_Plate_recognition_system
+# Automatic_License_Plate_Recognition_System
