@@ -35,8 +35,7 @@ Before you begin, make sure you have the following prerequisites installed:
 ### Installation
 1. Clone this repository.
    ```bash
-   git clone https://github.com/your-username/license-plate-detection.git
-   cd license-plate-detection
+   https://github.com/Shravani-CV/Automatic_License_Plate_Recognition_System_With_YOLO_V8_and_EasyOCR.git
 
 ### Vehicle License Plate Detection
    
