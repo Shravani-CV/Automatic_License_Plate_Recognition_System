@@ -37,5 +37,9 @@ Before you begin, make sure you have the following prerequisites installed:
    ```bash
    https://github.com/Shravani-CV/Automatic_License_Plate_Recognition_System_With_YOLO_V8_and_EasyOCR.git
 
+2. load all the requirements.txt file
+   ```bash
+   pip install -r requirements.txt
+   
 ### Vehicle License Plate Detection
    
